@@ -29,6 +29,6 @@ RP.drawio.png)
 
 ## Execution
 <p align="center">
-  <img src="RP.png" width="900">
+  <img src="mayank.png" width="900">
 </p>
 
